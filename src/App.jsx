@@ -2,7 +2,7 @@ import { Routes, Route } from 'react-router-dom'
 import './App.css'
 import './Embla.css'
 import './Dropdown.css'
-import './IPhone.css'
+import './iPhone.css'
 import './Button.css'
 
 import Navbar from './components/Navbar'
