@@ -477,7 +477,6 @@ justify-content: flex-start;
 .image-container {
   width: 90vw;
   height: 700px;
-  margin-top: -40px;
   z-index: -1;
   background-image: linear-gradient(0deg, rgba(24, 76, 89, 0.6), rgba(24, 76, 89, 0.6)),url('./assets/MtVernonTaxServices.jpg');
   background-size: 100% 100%;
@@ -583,6 +582,9 @@ justify-content: flex-start;
     margin-right: 5vw;
     text-wrap: nowrap;
     width: auto;
+  }
+  .es-review-content-text {
+    text-align: left!important;
   }
  
   .header-logo {
